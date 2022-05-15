@@ -1,0 +1,1 @@
+web: gunicorn allstars.wsgi --log-file -
